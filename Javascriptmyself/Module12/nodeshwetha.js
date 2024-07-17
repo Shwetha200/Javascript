@@ -1,0 +1,1 @@
+console.log("js run on vs terminal using node")
